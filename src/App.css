@@ -1,0 +1,48 @@
+body{
+    box-sizing: border-box;
+}
+
+#root{
+    background-color: #23252C;
+    height: 100vh;
+    font-family: "Inter", sans-serif;
+    display: grid;
+}
+
+.business-card{
+    width: 317px;
+    height: 716px;
+    place-self: center;
+    background-color: #1A1B21;
+    border-radius: 5px;
+}
+
+.profile-pic{
+    width: 317px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.full-name{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+
+.position{
+    text-align: center;
+    color: #F3BF99;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: -25px;
+}
+
+.portfolio-link{
+    text-align: center;
+    color: white;
+    font-size: 11px;
+    font-weight: 400;
+    margin-top: -5px;
+}
