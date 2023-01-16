@@ -68,7 +68,7 @@ body{
     margin-right: 20px;
 }
 
-.email-button > i{
+.fa-envelope{
     color: #1E1F26;
     margin-right: 10px;
 }
@@ -80,7 +80,7 @@ body{
     font-size: 14px;
 }
 
-.linkedIn-button > i{
+.fa-linkedin-square{
     margin-right: 10px;
 }
 
